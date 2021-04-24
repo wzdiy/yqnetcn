@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 乐清
+　　地理名词，一般指乐清市，为中华人民共和国浙江省下辖县级市，由温州市代管。位于中国东南沿海，瓯江口北岸，东临乐清湾。在本市域内，狭义上指乐清城区。
 
-You can use the [editor on GitHub](https://github.com/wzdiy/yqnetcn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+| 中文名       | 乐清（繁体：樂清） |
+| ------------ | :------------------------------------------------- |
+| 汉语拼音       | yuèqīng                                                      |
+| 拉丁字母名       | Yueqing                                                      |
+| 建县时间         | 公元374年（东晋宁康二年），析永嘉郡之永宁县置乐成县。        |
+| 设市时间         | 公元1993年，撤县设市。                             |
+| 总面积           | 1669.3平方千米（其中陆地（含水域）1385平方千米），海域284.3平方千米） |
+| 人口 | 常住人口142.85万人，户籍人口131.49万人，非户籍居住人口64.65万人。 |
+| 语言 | 汉语普通话、吴语温州话、吴语台州话 |
+| 行政区划代码 | 33 03 82                                                     |
+| 乡级行政区数 | 25（其中镇数14，乡数3，街道数8） |
+| 气候类型 | 亚热带季风气候                                               |
+| 时区 | UTC+8（北京时间）                                            |
+| 邮政编码 | 325600                                                       |
+| 电话区号 | +86 0577                                                     |
+| 车牌代码 | 浙C                                                          |
+| 现任党政长官 | 市委书记：方晖，市长：徐建兵 |
+| 风景名胜 | 雁荡山（首批国家重点风景名胜区、首批国家5A级旅游景区、世界地质公园）、中雁荡山（国家4A级旅游景区） |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 参考资料文献：
+- 乐清市政府网站相关数据资料；
+- 乐清县志；
+- 维基百科乐清市词条。
 
-### Markdown
+By Shengou Zheng 编辑整理
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wzdiy/yqnetcn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##### 遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议，且应注明所有原作者。
